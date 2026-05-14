@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -n \"def \" /Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/firecrawl/client.py | head -40)",
+      "Read(//Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/firecrawl/**)",
+      "Bash(python3 main.py)",
+      "Bash(python -c ' *)",
+      "Bash(python3 -c ' *)",
+      "Bash(python3 -c \"import anthropic, firecrawl, dotenv, yaml; print\\('All dependencies OK'\\)\")",
+      "Bash(ls ~/.claude/skills/ 2>/dev/null && echo \"exists\" || echo \"not found\"; ls .claude/skills/ 2>/dev/null && echo \"project exists\" || echo \"project not found\")",
+      "Read(//Users/ryansheridan/.claude/**)",
+      "Bash(mkdir -p ~/.claude/skills)",
+      "Bash(gh auth *)",
+      "Bash(git init *)",
+      "Bash(git add *)"
+    ],
+    "additionalDirectories": [
+      "/Users/ryansheridan/.claude"
+    ]
+  }
+}

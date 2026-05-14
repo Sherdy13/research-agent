@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \"from firecrawl import FirecrawlApp; import inspect; print\\([m for m in dir\\(FirecrawlApp\\) if not m.startswith\\('_'\\)]\\)\")"
+    ]
+  }
+}

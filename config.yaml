@@ -1,0 +1,32 @@
+sources:
+  - name: Anthropic Blog
+    url: https://www.anthropic.com/news
+  - name: Simon Willison's Blog
+    url: https://simonwillison.net
+  - name: HuggingFace Blog
+    url: https://huggingface.co/blog
+  - name: The Batch (DeepLearning.AI)
+    url: https://www.deeplearning.ai/the-batch/
+  - name: Google DeepMind Blog
+    url: https://deepmind.google/discover/blog/
+  - name: The Summary AI Newsletter
+    url: https://thesummary.ai/archive?tags=News
+
+topics:
+  - AI agents
+  - LLM architectures
+  - Claude
+  - prompt engineering
+  - RAG
+  - fine-tuning
+  - multimodal AI
+  - AI safety
+  - MCP (Model Context Protocol)
+
+analysis:
+  days_lookback: 7
+  min_article_length: 200
+
+models:
+  analyser: claude-opus-4-7
+  synthesiser: claude-opus-4-7

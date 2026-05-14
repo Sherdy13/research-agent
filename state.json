@@ -1,0 +1,22 @@
+{
+  "seen_urls": [
+    "https://deepmind.google/blog/#page-content",
+    "https://thesummary.ai/t/News",
+    "https://deepmind.google/blog/ai-pointer/",
+    "https://www.deeplearning.ai/the-batch/issue-352",
+    "https://www.anthropic.com/news/claude-design-anthropic-labs",
+    "https://www.anthropic.com/glasswing",
+    "https://www.anthropic.com/news/claude-opus-4-7",
+    "https://thesummary.ai/p/openai-launches-gpt-5-5-spud",
+    "https://www.deeplearning.ai/the-batch/issue-286",
+    "https://thesummary.ai/p/openai-launches-gpt-5-5-instant",
+    "https://simonwillison.net/2026/May/13/welcome-to-the-datasette-blog/",
+    "https://simonwillison.net/2026/May/14/datasette-ip-rate-limit/",
+    "https://huggingface.co/blog/qvac/medpsy",
+    "https://huggingface.co/blog/mishig/local-moores-law",
+    "https://www.deeplearning.ai/the-batch/introducing-deeplearning-ai-pro",
+    "https://huggingface.co/blog/community",
+    "https://deepmind.google/blog/alphaevolve-impact/"
+  ],
+  "last_run": "2026-05-14T22:38:48.457508+00:00"
+}

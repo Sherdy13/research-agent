@@ -1,0 +1,4 @@
+anthropic
+firecrawl-py
+python-dotenv
+pyyaml
